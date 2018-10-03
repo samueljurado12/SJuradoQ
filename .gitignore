@@ -1,0 +1,17 @@
+# PyCharm stuff
+.idea/
+
+# SECRETS file
+*/SECRETS.py
+
+# DB files
+*.sqlite3
+
+# Python stuff
+*.pyc
+venv/
+*.env
+
+# Other stuff
+*/migrations/
+media/
