@@ -12,4 +12,4 @@ Create a virtualenv and install the following packages:
 * [Pillow](https://pillow.readthedocs.io/en/5.2.x/) `pip install Pillow`
 * [Django Rest Framework](http://www.django-rest-framework.org/) `pip install djangorestframework`
 
-*Once the web is finished I will upload it into this repository.
+THIS PROJECT HAS BEEN CANCELLED DUE TO VERSION DEPRECATION AND THE INITIATION OF A NEW API OF GENERAL PURPOSES [HERE](https://github.com/DevsInPyjamas/APIPortfolio).
